@@ -36,7 +36,7 @@ x%=2
 x//=3
 print(x)
 
-#3 comparison operator
+#3 comparison operator Return a boolean (True or False):
 x=10
 y=8
 
